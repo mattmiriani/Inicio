@@ -1,0 +1,10 @@
+package Fundamentos;
+
+public class primitivoVsObjeto {
+		public static void main(String[] args) {
+			
+			String s = new String("Texto");
+			s.toUpperCase();
+		}
+
+}
