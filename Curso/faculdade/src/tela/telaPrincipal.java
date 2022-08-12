@@ -1,4 +1,4 @@
-package Tela;
+package tela;
 
 public class TelaPrincipal {
 

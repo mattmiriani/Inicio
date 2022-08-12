@@ -1,4 +1,4 @@
-package Horario;
+package horario;
 
 public class HorarioTrabalho {
 
