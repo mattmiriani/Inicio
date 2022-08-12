@@ -1,0 +1,23 @@
+package Fundamentos.Operadores;
+
+public class desafioLogicos {
+	public static void main(String[] args) {
+		// Trabalho na terça (V ou F)
+		// Trabalho na quinta(V ou F)
+
+		boolean trabalho1 = true;
+		boolean trabalho2 = false;
+
+		boolean entrega = trabalho1 ^ trabalho2;
+
+		System.out.println("Vamos comprar a TV de 50'? " + entrega);
+		System.out.println("Vamos comprar a TV de 32'? " + entrega);
+
+		if (!entrega == true) {
+			System.out.println("\nNão entregou os trabalhos, por tanto nao vamos tomar sorvete");
+		} else {
+			System.out.println("\nVamos todos tomar sorteve!!");
+		}
+
+	}
+}

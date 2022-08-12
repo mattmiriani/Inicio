@@ -2,7 +2,7 @@ package Fundamentos;
 
 import javax.swing.JOptionPane;
 
-public class conversaoStringNumero {
+public class ConversaoStringNumero {
 	public static void main(String[] args) {
 		
 		String valor1 = JOptionPane.showInputDialog(

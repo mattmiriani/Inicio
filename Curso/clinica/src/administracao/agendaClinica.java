@@ -1,5 +1,5 @@
-package administracao;
+package Administracao;
 
-public class agendaClinica {
+public class AgendaClinica {
 
 }

@@ -1,5 +1,5 @@
-package tela;
+package Tela;
 
-public class telaHorario {
+public class TelaHorario {
 
 }

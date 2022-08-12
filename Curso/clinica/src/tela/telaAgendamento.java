@@ -1,5 +1,5 @@
-package tela;
+package Tela;
 
-public class telaAgendamento {
+public class TelaAgendamento {
 
 }

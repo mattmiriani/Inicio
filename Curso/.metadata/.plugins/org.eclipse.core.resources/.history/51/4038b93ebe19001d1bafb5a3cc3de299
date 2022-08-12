@@ -1,0 +1,22 @@
+package Fundamentos.Operadores;
+
+public class desafioLogicos {
+	public static void main(String[] args) {
+		// Trabalho na terça (V ou F)
+		// Trabalho na quinta(V ou F)
+		
+		
+		boolean trabalho1 = true;
+		boolean trabalho2 = true;
+		
+		boolean tv32 = trabalho1 ^ trabalho2;
+		boolean tv50 = trabalho1 && trabalho2;
+		
+		boolean sorvete = tv32 || tv50;
+		
+		
+		System.out.println(sorvete);
+		
+		
+	}
+}

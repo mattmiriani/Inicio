@@ -1,5 +1,5 @@
-package pessoa;
+package Pessoa;
 
-public class funcionario {
+public class Funcionario {
 
 }

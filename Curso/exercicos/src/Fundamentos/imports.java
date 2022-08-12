@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import javax.swing.JButton;
 
-public class imports {
+public class Imports {
 	public static void main(String[] args) {
 		java.lang.String b = "boa noite";
 		java.lang.System.out.println(b);
@@ -17,8 +17,6 @@ public class imports {
 		//Date d = new Date();
 		Date d = new Date();
 		System.out.println(d);
-		
-		
 		
 		
 	}

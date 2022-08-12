@@ -1,5 +1,5 @@
-package horario;
+package Horario;
 
-public class horarioAula {
+public class HorarioAula {
 
 }

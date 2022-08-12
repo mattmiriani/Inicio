@@ -2,7 +2,7 @@ package Fundamentos;
 
 import java.util.Scanner;
 
-public class console {
+public class Console {
 	 public static void main(String[] args) {
 		/*System.out.print("Bom");
 		System.out.print(" dia!\n");

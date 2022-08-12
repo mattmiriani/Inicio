@@ -2,7 +2,7 @@ package Fundamentos;
 
 import java.util.Scanner;
 
-public class wrappers {
+public class Wrappers {
 	public static void main(String[] args) {
 
 		// Integer o = Integer.parseInt(entrada.next());

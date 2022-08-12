@@ -2,7 +2,7 @@ package Fundamentos;
 
 import java.util.Scanner;
 
-public class desafioConversao {
+public class DesafioConversao {
 	public static void main(String[] args) {
 		
 		//MINHA TENTATIVA
@@ -49,7 +49,8 @@ public class desafioConversao {
 		System.out.println("A média dos salários é " + media);
 		
 		entrada.close();
-	}
+		
+		}
 	
 
 }
