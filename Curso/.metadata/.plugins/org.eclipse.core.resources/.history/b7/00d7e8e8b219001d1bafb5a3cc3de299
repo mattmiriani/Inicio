@@ -1,8 +1,0 @@
-package Fundamentos;
-
-public class aritimeticos {
-	 public static void main(String[] args) {
-		System.out.println( 2 + 3 );
-	}
-
-}
