@@ -18,11 +18,11 @@ public class CalculandoEquacaoDe2 {
 		}
 		
 		//abx + 13 = 
-		/*int ab = resultadoA + b; // = 13;
+		int ab = resultadoA + b; // = c;
 		
-		int x = -13 / ab;
+		int x = c / ab;
 		
-		System.out.println("Valor de X: " + x);*/
+		System.out.println("Valor de X: " + x);
 		
 		//Delta
 		int delta = resultadoB - 4 * (a * c);
